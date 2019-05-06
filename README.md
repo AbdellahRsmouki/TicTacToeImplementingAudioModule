@@ -1,7 +1,7 @@
 #TicTacToeImplementingAudioModule
 
-### How to use
+##How to use
 
-## add an audio file with "langue" = "Arabe" and "type" = "good"
+### add an audio file with "langue" = "Arabe" and "type" = "good"
 
-## add an audio file with "langue" = "Arabe" and "type" = "encouragement"
+### add an audio file with "langue" = "Arabe" and "type" = "encouragement"
