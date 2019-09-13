@@ -2,7 +2,7 @@
 
 With this android application, you can test easly the module 'AudioManagingModule'.
 
-```
+---
 
 ## How to use
 
